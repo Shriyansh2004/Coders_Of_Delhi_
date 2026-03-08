@@ -31,12 +31,6 @@
             "liked_pages": [
                 104
             ]
-        },
-        {
-            "id": 5,
-            "name": "Amit",
-            "friends": [],
-            "liked_pages": []
         }
     ],
     "pages": [
@@ -51,10 +45,6 @@
         {
             "id": 103,
             "name": "AI & ML Community"
-        },
-        {
-            "id": 104,
-            "name": "Web Dev Hub"
         },
         {
             "id": 104,
